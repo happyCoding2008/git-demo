@@ -19,6 +19,7 @@ public class WebController {
         System.out.println("wolrd");
         System.out.println("2018 commit");
         System.out.println("NBA大结局2008说的");
+        System.out.println("戴维斯携手字母歌底薪加盟湖人，NBA又大结局2018");
         return "hello,git";
     }
 }
