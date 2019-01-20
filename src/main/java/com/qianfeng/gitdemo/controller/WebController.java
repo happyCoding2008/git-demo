@@ -16,6 +16,7 @@ public class WebController {
     @ResponseBody
     public String hello(){
         System.out.println("hello");
+        System.out.println("wolrd");
         return "hello,git";
     }
 }
