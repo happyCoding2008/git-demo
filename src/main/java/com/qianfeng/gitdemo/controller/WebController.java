@@ -17,6 +17,7 @@ public class WebController {
     public String hello(){
         System.out.println("hello");
         System.out.println("wolrd");
+        System.out.println("2018 commit");
         return "hello,git";
     }
 }
