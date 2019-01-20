@@ -18,6 +18,7 @@ public class WebController {
         System.out.println("hello");
         System.out.println("wolrd");
         System.out.println("2018 commit");
+        System.out.println("NBA大结局2008说的");
         return "hello,git";
     }
 }
